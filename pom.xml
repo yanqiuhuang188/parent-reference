@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nimble</groupId>
-    <artifactId>parent-reference</artifactId>
+    <artifactId>nimble-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>parent-reference</name>
+    <name>nimble-parent</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
